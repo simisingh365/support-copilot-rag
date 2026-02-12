@@ -1,0 +1,16 @@
+fastapi==0.104.1
+uvicorn[standard]==0.24.0
+sqlalchemy==2.0.23
+langchain==0.1.0
+langchain-openai>=0.2.0
+langchain-community==0.0.10
+openai>=1.50.0
+chromadb==0.4.18
+python-dotenv==1.0.0
+pandas
+streamlit==1.29.0
+scikit-learn>=1.5.0
+numpy
+pydantic==2.5.0
+setuptools<70
+sentence-transformers
